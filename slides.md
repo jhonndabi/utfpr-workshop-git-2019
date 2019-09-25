@@ -614,7 +614,6 @@ Sobre commits
 <ul>
     <li>Frases descritivas e diretas</li>
     <li>Não tenha medo de realizar commits</li>
-    <li>Formato</li>
     <li>Começar com letra maiúscula</li>
     <li>No máximo 50 caracteres</li>
 </ul>
