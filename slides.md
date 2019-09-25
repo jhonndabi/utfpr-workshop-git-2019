@@ -192,7 +192,6 @@ cd minicurso-git
 git init
 
 ## Abrir visual studio code
-code .
 ```
 ---
 
