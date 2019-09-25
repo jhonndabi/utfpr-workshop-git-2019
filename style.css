@@ -1,0 +1,26 @@
+.reveal section img {
+    background: none;
+    border: none;
+    box-shadow: none;
+}
+
+.reveal pre {
+    box-shadow: none;
+}
+
+.reveal code {
+    font-size: 28px;
+    line-height: 36px;
+}
+
+.hljs {
+    background: #3f3f3f;
+    color: #dcdcdc;
+}
+
+.hljs-addition,
+.hljs-comment,
+.hljs-quote,
+.hljs-meta {
+    color: #8fc68f;
+}

@@ -1,0 +1,23 @@
+{
+  "name": "utfpr-workshop-git",
+  "version": "1.0.0",
+  "description": "",
+  "scripts": {
+    "start": "reveal-md slides.md -w --theme simple --scripts script.js --css style.css",
+    "export-pdf": "reveal-md slides.md --theme simple --css style.css --port 1949 --print slides.pdf",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jhonndabi/utfpr-workshop-git.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jhonndabi/utfpr-workshop-git/issues"
+  },
+  "homepage": "https://github.com/jhonndabi/utfpr-workshop-git#readme",
+  "dependencies": {
+    "reveal-md": "^2.1.1"
+  }
+}
